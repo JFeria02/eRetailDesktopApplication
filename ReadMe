@@ -1,0 +1,9 @@
+Usernames and passwords:
+
+ADMINS:
+UserID: 1  Password: pass1
+
+CUSTOMERS:
+UserID: 2  Password: pass2
+UserID: 3  Password: pass3
+UserID: 4  Password: pass4
