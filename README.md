@@ -1,11 +1,8 @@
 # e-Retail desktop application project
 
 Application for a e-retail system developed using Python 3.8 and SQL
-• Created GUIs for administrators and customers that displayed product data retrieved from the
-database.
-• A SQL database stores data on all products in the system and can be updated by administrators
-through the GUI. Customers can search products in the system using keywords or product
-categories
+- Created GUIs for administrators and customers that displayed product data retrieved from the database.
+- A SQL database stores data on all products in the system and can be updated by administrators through the GUI. Customers can search products in the system using keywords or product categories.
 
 ## Features
 ### Administration Features
@@ -14,12 +11,12 @@ categories
    -  Prompt the user with an error message if the User ID does not exist or the User ID and password do not match
 2. Maintain a list of product categories
    -  Add a category
-     *  Can enter a category ID and name to be added to the database
-     *  Prompt the user if the category already exists or if the category ID is already in use
+      - Can enter a category ID and name to be added to the database
+      - Prompt the user if the category already exists or if the category ID is already in use
    -  Edit a category
-     *  Can select a category, edit its name and update the database
+      - Can select a category, edit its name and update the database
    -  Delete a category
-     *  Can select a category and delete it from the database
+      - Can select a category and delete it from the database
 3. Maintain products
    -  Add a new product
    -  Edit a product
@@ -46,9 +43,9 @@ categories
 1. Shopping basket
    -  Add produts to the shopping basket
    -  Update the shopping basket
-     *  Can remove products
-     *  Can change the quantity of the product in the shopping basket
-     *  Total price is displayed
+      - Can remove products
+      - Can change the quantity of the product in the shopping basket
+      - Total price is displayed
 
 ## Video
 
